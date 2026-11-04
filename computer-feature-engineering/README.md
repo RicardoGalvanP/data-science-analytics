@@ -1,7 +1,9 @@
-# Laptop & Desktop Price Prediction
+# Computer Specs: Feature Engineering
 
-Feature engineering project to predict computer prices based on hardware 
-specifications, built as part of a 4-person team.
+Feature engineering on a 100,000-record computer hardware dataset (encoding, scaling, discretization) to prepare it for price prediction modeling. Built as part of a 4-person team.
+
+**Status:** Feature engineering complete. Predictive modeling planned.
+
 
 ### Version
 
