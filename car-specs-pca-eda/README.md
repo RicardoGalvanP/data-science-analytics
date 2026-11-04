@@ -1,7 +1,9 @@
-# Car Price Prediction & Dimensionality Reduction
+# Car Specs: PCA & Exploratory Analysis
 
-Exploratory data analysis and dimensionality reduction using PCA on automobile 
-technical specifications to understand the key drivers of vehicle pricing.
+Exploratory data analysis and dimensionality reduction using PCA on automobile technical specifications to understand the key drivers of vehicle pricing.
+
+**Status:** EDA and PCA complete. Predictive modeling planned.
+
 
 ### Version
 
