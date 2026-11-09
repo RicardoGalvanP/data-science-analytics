@@ -13,3 +13,9 @@ Projects from my Data Science and Analytics course (Master’s in Applied AI, Te
 ## Stack
 
 Python, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, Google Colab, Tableau Public
+
+## About
+
+Ricardo Galván Páez, Mechatronic Engineer working in data analysis and applied AI.
+
+[GitHub](https://github.com/RicardoGalvanP) · [LinkedIn](https://www.linkedin.com/in/ricardo-galvan-paez)
