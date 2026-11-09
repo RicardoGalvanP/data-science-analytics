@@ -1,6 +1,6 @@
 # Data Science & Analytics
 
-Projects from my Data Science and Analytics course (Master's in Applied AI, Tecnológico de Monterrey): data cleaning, exploratory analysis, feature engineering, and first predictive models in Python. Each folder includes English and Spanish notebooks.
+Projects from my Data Science and Analytics course (Master’s in Applied AI, Tecnológico de Monterrey): data cleaning, exploratory analysis, feature engineering, first predictive models in Python, and data visualization in Tableau. The Python projects include English and Spanish notebooks.
 
 | Project | Focus | Techniques | Status |
 |---|---|---|---|
@@ -9,7 +9,7 @@ Projects from my Data Science and Analytics course (Master's in Applied AI, Tecn
 | [car-specs-pca-eda](./car-specs-pca-eda) | Dimensionality reduction | PCA, EDA | EDA complete, modeling planned |
 | [computer-feature-engineering](./computer-feature-engineering) | Feature engineering (4-person team project) | Encoders, PowerTransformer, KBinsDiscretizer | Feature engineering complete, modeling planned |
 | [personal-loans-eda](./personal-loans-eda) | Exploratory data analysis | EDA, correlation analysis | EDA complete, modeling planned |
-
+|tableau-numismatica-mexico | Data visualization and storytelling 4-person team project | Tableau Public, filter actions, maps, trend analysis, data storytelling | Story published |
 ## Stack
 
-Python, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, Google Colab
+Python, Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn, Google Colab, Tableau Public
